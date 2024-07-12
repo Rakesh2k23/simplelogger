@@ -1,0 +1,14 @@
+New user Authenticated!
+Username: Rock
+Password: Rock24
+URL: /api/checkLoggerData/Rock/Rock24
+Date: 12/7/2024, 1:44:04 pm
+Method Type: POST
+
+New user Authenticated!
+Username: Rock
+Password: Rock2
+URL: /api/checkLoggerData/Rock/Rock2
+Date: 12/7/2024, 1:45:05 pm
+Method Type: POST
+
